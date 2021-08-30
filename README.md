@@ -4,3 +4,5 @@ Cimple is a small programming language, it is based on the C language, from whic
 The compiler is a program responsible for translating files written in Cimple language (.ci), in assembly language files (.asm).
 This process is achieved by completing 6 stages: the verbal analysis, syntactic analysis, production of the intermediate code,
 the construction of the symbol board, the semantic analysis and finally the production of the final code.
+
+The .ci files are some examples for the Cimple programming language.
