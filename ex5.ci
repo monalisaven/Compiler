@@ -1,0 +1,12 @@
+program ex5
+	declare x,y,z;
+	switchcase case (not [x>0])
+		{
+			x := 3 + y ;
+        }
+        default
+        {
+            z := 3346 + 4199 ;
+        };
+        .
+	

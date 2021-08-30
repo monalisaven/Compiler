@@ -1,0 +1,13 @@
+program example3
+    declare x,y;
+    declare z;
+    if (x<z)
+    {
+        y :=x+1 ;
+    }
+    else
+    {
+        z :=z+2 ;
+    };
+    .
+    #the end of phase 1#

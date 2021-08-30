@@ -1,0 +1,9 @@
+# hello world #
+program example2
+	declare x;
+	declare y,z,m,l;
+	{
+	print(l);
+	call jo (in x, inout y, in l, inout m);
+	}
+	 .

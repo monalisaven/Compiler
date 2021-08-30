@@ -1,0 +1,12 @@
+program example4
+	declare x;
+	incase
+		case (not [x>1])
+		{
+			x := x+1;
+		}
+		case (x<1)
+		{
+            x := x-1;
+		};
+		. #end of program#

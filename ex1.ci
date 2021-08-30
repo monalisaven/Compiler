@@ -1,0 +1,15 @@
+program example1
+	declare jo;
+	declare mona;
+	forcase
+      case (not [jo>1])
+         {
+            mona := 3 + jo ;
+         }
+         default
+         {
+             jo := 1346 ;
+         };
+         .
+
+		
